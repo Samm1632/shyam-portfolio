@@ -1,0 +1,83 @@
+{
+  "description": "I've worked on data engineering, AI, and building large-scale distributed systems. Here are some highlights:",
+  "header_image_path": "experience.svg",
+  "sections": [
+    {
+      "title": "Work",
+      "experiences": [
+        {
+          "title": "Graduate Teaching Assistant",
+          "company": "University of Texas at Dallas",
+          "company_url": "https://www.utdallas.edu/",
+          "logo_path": "utd_logo.png",
+          "duration": "Jul 2024 - Present",
+          "location": "Richardson, TX",
+          "description": "Facilitated learning for over 180+ students in the Applied Machine Learning course. Assessed and graded student work, provided feedback, and guided them in advanced ML concepts.",
+          "color": "#0879bf"
+        },
+        {
+          "title": "Data Solutions Developer",
+          "company": "Qi-Cap Markets LLP",
+          "company_url": "",
+          "logo_path": "company_logo.png",
+          "duration": "Jul 2020 - Aug 2023",
+          "location": "India",
+          "description": "Led the transition from a monolithic to microservices-based distributed trading platform, improving efficiency by 40% and saving $0.5M annually. Automated ETL pipelines and collaborated with DevOps to slash deployment times by 60%.",
+          "color": "#fc1f20"
+        }
+      ]
+    },
+    {
+      "title": "Internships",
+      "experiences": [
+        {
+          "title": "Data Engineer Intern",
+          "company": "BioSparrow Inc.",
+          "company_url": "",
+          "logo_path": "company_logo.png",
+          "duration": "May 2024 - Jul 2024",
+          "location": "Seattle, WA",
+          "description": "Developed data pipelines using Airflow, Snowflake, and Informatica, cutting query times by 25%. Performed data quality checks to reduce downtime by 30%, and improved motion classification accuracy by 13% via ML algorithms.",
+          "color": "#000000"
+        }
+      ]
+    },
+    {
+      "title": "Volunteerships",
+      "experiences": [
+        {
+          "title": "Technology Officer",
+          "company": "Infinity Lions Club UTD",
+          "company_url": "",
+          "logo_path": "club_logo.png",
+          "duration": "2024 - Present",
+          "location": "UT Dallas",
+          "description": "Led the club’s website team, optimized latency by 10%. Organized annual banquets for charitable causes, raising $3,000.",
+          "color": "#1da01f"
+        },
+        {
+          "title": "Founder",
+          "company": "KarmaChitra - Internet of Art",
+          "company_url": "",
+          "logo_path": "karmachitra_logo.png",
+          "duration": "2021 - Present",
+          "location": "",
+          "description": "Integrated tech with art to bridge emerging artists and marketplaces, generating $7,000 in first-year sales. Built an online platform to showcase and sell unique creations.",
+          "color": "#fc1f20"
+        },
+        {
+          "title": "Community Volunteer",
+          "company": "Art of Living",
+          "company_url": "",
+          "logo_path": "aol_logo.png",
+          "duration": "2017 - Present",
+          "location": "",
+          "description": "Actively volunteered in Nepal, India, and the U.S. (World Cultural Festival 2023 with 2M+ attendees). Organized workshops and outreach programs.",
+          "color": "#ee3c26"
+        }
+      ]
+    }
+  ],
+  "subtitle": "Work, Internships, and Volunteership",
+  "title": "Experience"
+}

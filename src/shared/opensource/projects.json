@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "id": "accident-mitigation",
+      "name": "Accident Mitigation for Truck Fleets",
+      "createdAt": "2024-10-01T00:00:00Z",
+      "url": "https://github.com/imkesh/accident-mitigation-fleet",
+      "description": "Built big-data solutions analyzing telemetry with HiveQL & Spark, identifying accident-prone scenarios. Created predictive models for fleet safety.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "SQL",
+          "iconifyClass": "simple-icons:postgresql"
+        }
+      ]
+    },
+    {
+      "id": "automated-metrics-analytics",
+      "name": "Automated Metrics & Analytics Dashboard",
+      "createdAt": "2024-08-01T00:00:00Z",
+      "url": "https://github.com/imkesh/analytics-dashboard",
+      "description": "Developed a scalable ETL pipeline using Snowflake and AWS EMR/Redshift for data aggregation. Built interactive dashboards for real-time insights.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "simple-icons:amazonaws"
+        }
+      ]
+    },
+    {
+      "id": "intelligent-log-monitoring",
+      "name": "Intelligent Log Monitoring & Alert System",
+      "createdAt": "2024-06-01T00:00:00Z",
+      "url": "https://github.com/imkesh/log-monitoring",
+      "description": "Real-time log ingestion with AWS Lambda & Kinesis. Deployed anomaly detection alerts, reducing operational downtime by 20%.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "simple-icons:amazonaws"
+        }
+      ]
+    },
+    {
+      "id": "trading-platform",
+      "name": "Comprehensive Trading Platform (Qi-Cap)",
+      "createdAt": "2023-10-01T00:00:00Z",
+      "url": "https://github.com/imkesh/trading-platform",
+      "description": "Designed a microservices-based terminal for high-frequency trading. Integrated real-time heatmaps, IV curves, and consolidated orders for low-latency performance.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "NodeJS",
+          "iconifyClass": "simple-icons:node-dot-js"
+        },
+        {
+          "name": "C++",
+          "iconifyClass": "simple-icons:cplusplus"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "simple-icons:mongodb"
+        },
+        {
+          "name": "Elasticsearch",
+          "iconifyClass": "simple-icons:elasticsearch"
+        }
+      ]
+    },
+    {
+      "id": "chatbot-nlp",
+      "name": "Company-Specific NLP Chatbot",
+      "createdAt": "2025-02-14T00:00:00Z",
+      "url": "https://github.com/imkesh/nlp-chatbot",
+      "description": "NLP-driven chatbot to answer queries from user-uploaded PDFs. Utilizes advanced text classification and retrieval for domain-specific Q&A.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    }
+  ]
+}
